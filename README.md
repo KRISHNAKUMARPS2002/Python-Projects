@@ -1,7 +1,9 @@
 # Python-Projects
 Here i uploaded the basic level projects using python.
 
-1)Image Resizer with OpenCV
+
+
+1) Image Resizer with OpenCV
 This Python script uses the OpenCV library to resize an image and save the result to a new file. It's a simple utility for scaling down an image based on a specified percentage.
 
 # Usage
