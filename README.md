@@ -49,3 +49,17 @@ This Python script uses the `requests`, `json`, and `pyttsx3` libraries to fetch
 
 ```bash
 python weather_info.py
+
+5)Speech Translation Project
+
+This project uses Google's speech recognition, translation, and text-to-speech services to perform speech translation from Hindi to French.
+
+# Requirements
+- Python 3.x
+- Install required libraries: `pip install SpeechRecognition googletrans==4.0.0-rc1 gtts playsound`
+
+# Usage
+1. Clone the repository:
+
+   ```bash
+speech-translation-project.git
